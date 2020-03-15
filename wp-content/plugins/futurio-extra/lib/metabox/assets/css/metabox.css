@@ -535,7 +535,7 @@
 	padding-left: 50px;
 }
 .move-title {
-	background: url('/https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/futurio-extra/lib/metabox/assets/images/move-icon.png') no-repeat;
+	background: url('https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/futurio-extra/lib/metabox/assets/images/move-icon.png') no-repeat;
 	position: absolute;
 	left: 13px;
 	top: 3px;
@@ -570,7 +570,7 @@
 	display:block;
 	width:12px;
 	height:12px;
-	background:url(/https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/futurio-extra/lib/metabox/assets/images/move-icon.png) no-repeat;
+	background:url(https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/futurio-extra/lib/metabox/assets/images/move-icon.png) no-repeat;
 	margin:12px 0 0 8px;
 }
 .dilaz-metabox .tr:first-child .slideshow_remove,

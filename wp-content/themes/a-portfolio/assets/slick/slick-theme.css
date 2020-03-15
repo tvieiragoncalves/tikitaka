@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('/https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/ajax-loader.gif') center center no-repeat;
+    background: #fff url('https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -12,8 +12,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('/https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.eot');
-    src: url('/https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.eot#iefix') format('embedded-opentype'), url('/https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.woff') format('woff'), url('/https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.ttf') format('truetype'), url('/https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.svg#slick') format('svg');
+    src: url('https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.eot');
+    src: url('https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.eot#iefix') format('embedded-opentype'), url('https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.woff') format('woff'), url('https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.ttf') format('truetype'), url('https://tvieiragoncalves.github.io/tikitaka/wp-content/themes/a-portfolio/assets/slick/fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,

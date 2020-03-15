@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "gizmo";
-  src:url("/https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.eot");
-  src:url("/https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.eot#iefix") format("embedded-opentype"),
-    url("/https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.woff") format("woff"),
-    url("/https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.ttf") format("truetype"),
-    url("/https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.svg#gizmo") format("svg");
+  src:url("https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.eot");
+  src:url("https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.eot#iefix") format("embedded-opentype"),
+    url("https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.woff") format("woff"),
+    url("https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.ttf") format("truetype"),
+    url("https://tvieiragoncalves.github.io/tikitaka/wp-content/plugins/seriously-simple-podcasting/assets/fonts/Gizmo/fonts/gizmo.svg#gizmo") format("svg");
   font-weight: normal;
   font-style: normal;
 
